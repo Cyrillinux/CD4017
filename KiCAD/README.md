@@ -8,6 +8,13 @@ KiCAD CD4017 Simulating model (LTSpice)
 
 Cyril BARBATO / cyril.barbato@gmx.com under GPL
 
-Cyril BARBATO Lycée Champollion, Lattes (FRANCE)
+Lycée Champollion, Lattes (FRANCE)
 
 TO DO : build RST circuit
+
+Donate for development support
+
+https://bacciel.com/donate/donate.html
+
+Many thanks
+
