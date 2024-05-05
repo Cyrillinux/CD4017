@@ -11,3 +11,9 @@ Cyril BARBATO / cyril.barbato@gmx.com under GPL
 Lycée Champollion, Lattes (FRANCE)
 
 TO DO : build RST circuit
+
+Donate for development support
+
+https://bacciel.com/donate/donate.html
+
+Many thanks
