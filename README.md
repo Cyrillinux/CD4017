@@ -1,6 +1,6 @@
 # CD4017
 
-KiCAD CD4017 Simulating model (LTSpice)
+KiCAD CD4017 Simulating model (ngSpice LTSpice Spice)
 
 05/2024 Version R0
 
